@@ -1,0 +1,2206 @@
+BU
+22+,A2o+,A2s+,K5s+,K9o+,Q8s+,QTo+,J7s+,JTo,T7s+,97s+,86s+,75s+,65s,54s
+
+BB
+33+,A4s+,A9o+,K9s+,KTo+,Q8s+,QJo,J8s+,JTo,T7s+,97s+,86s+,75s+,65s,54s
+
+SB(hero)
+Text results appended to pokerstove.txt
+
+25,123,620 games     7.017 secs  3,580,393 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.624%  	33.62% 	01.01% 	       8445850 	   253085.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.130%  	37.17% 	00.96% 	       9337726 	   242225.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.246%  	27.00% 	00.25% 	       6783022 	    62223.67   { 22 }
+
+
+---
+
+24,920,395 games     7.016 secs  3,551,937 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.662%  	32.70% 	00.96% 	       8149577 	   239355.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.797%  	36.83% 	00.97% 	       9177728 	   241816.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.540%  	28.25% 	00.29% 	       7040760 	    71834.50   { 33 }
+
+
+---
+
+24,730,565 games     7.013 secs  3,526,388 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.829%  	31.92% 	00.91% 	       7893410 	   225429.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.069%  	36.14% 	00.93% 	       8938314 	   229226.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	30.103%  	29.81% 	00.29% 	       7372479 	    72407.00   { 44 }
+
+
+---
+
+23,928,945 games     7.014 secs  3,411,597 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	31.889%  	31.01% 	00.88% 	       7419227 	   211610.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.171%  	35.27% 	00.90% 	       8440623 	   214955.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	31.940%  	31.63% 	00.31% 	       7568424 	    74790.00   { 55 }
+
+
+---
+
+24,568,299 games     6.991 secs  3,514,275 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	31.119%  	30.30% 	00.82% 	       7443721 	   201872.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	35.023%  	34.19% 	00.84% 	       8399273 	   205487.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	33.858%  	33.56% 	00.30% 	       8244401 	    74241.00   { 66 }
+
+
+---
+
+23,788,587 games     6.986 secs  3,405,179 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	30.164%  	29.35% 	00.82% 	       6981216 	   194578.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	33.994%  	33.16% 	00.83% 	       7888542 	   198261.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	35.842%  	35.52% 	00.32% 	       8449618 	    77061.83   { 77 }
+
+
+---
+
+24,316,805 games     6.986 secs  3,480,790 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	29.038%  	28.26% 	00.78% 	       6872400 	   188832.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	32.603%  	31.80% 	00.80% 	       7733360 	   194995.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	38.359%  	38.03% 	00.33% 	       9246963 	    80973.83   { 88 }
+
+
+---
+
+23,979,460 games     7.018 secs  3,416,850 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	27.837%  	27.11% 	00.73% 	       6500135 	   175190.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	30.928%  	30.16% 	00.77% 	       7231911 	   184771.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	41.234%  	40.88% 	00.36% 	       9802177 	    86022.33   { 99 }
+
+
+---
+
+23,548,454 games     7.015 secs  3,356,871 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	26.106%  	25.44% 	00.67% 	       5990688 	   156934.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	28.396%  	27.67% 	00.73% 	       6515563 	   171390.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	45.498%  	45.07% 	00.43% 	      10614222 	   100348.00   { TT }
+
+
+---
+
+23,107,890 games     7.013 secs  3,295,007 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	24.098%  	23.49% 	00.61% 	       5427238 	   141351.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	25.495%  	24.82% 	00.68% 	       5734742 	   156812.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	50.407%  	50.00% 	00.41% 	      11552814 	    95640.33   { JJ }
+
+
+---
+
+23,489,233 games     6.995 secs  3,358,003 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	22.025%  	21.46% 	00.57% 	       5039996 	   133690.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	22.432%  	21.82% 	00.62% 	       5124355 	   144948.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	55.542%  	55.17% 	00.38% 	      12958041 	    88957.50   { QQ }
+
+
+---
+
+22,687,438 games     6.989 secs  3,246,163 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	19.225%  	18.68% 	00.54% 	       4238877 	   122751.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	19.372%  	18.80% 	00.58% 	       4264348 	   130874.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	61.403%  	61.02% 	00.38% 	      13844935 	    86413.83   { KK }
+
+
+---
+
+21,122,549 games     6.984 secs  3,024,419 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	13.585%  	13.14% 	00.45% 	       2774866 	    94655.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	15.105%  	14.67% 	00.44% 	       3098163 	    92509.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	71.310%  	70.84% 	00.47% 	      14963332 	    99727.83   { AA }
+
+
+---
+
+23,935,733 games     7.015 secs  3,412,078 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.415%  	37.19% 	01.23% 	       8901108 	   293886.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.470%  	41.27% 	01.20% 	       9878960 	   286789.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.115%  	18.88% 	00.24% 	       4518978 	    56591.33   { 32o }
+
+
+---
+
+23,985,607 games     7.016 secs  3,418,701 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.727%  	35.56% 	01.17% 	       8528998 	   280302.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.557%  	39.42% 	01.14% 	       9454852 	   273355.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.716%  	22.49% 	00.23% 	       5393313 	    55458.50   { 32s }
+
+
+---
+
+24,377,765 games     7.012 secs  3,476,578 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.078%  	36.83% 	01.24% 	       8979324 	   303459.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.188%  	40.96% 	01.23% 	       9985468 	   299420.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.733%  	19.44% 	00.30% 	       4737851 	    72861.67   { 42o }
+
+
+---
+
+24,609,578 games     6.993 secs  3,519,173 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.230%  	35.99% 	01.24% 	       8857695 	   304551.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.522%  	40.30% 	01.22% 	       9917930 	   300676.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.249%  	20.95% 	00.30% 	       5155505 	    73886.50   { 43o }
+
+
+---
+
+23,989,043 games     6.988 secs  3,432,891 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.390%  	35.21% 	01.18% 	      12997354 	   436454.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.268%  	39.10% 	01.17% 	      14434923 	   430573.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.341%  	23.05% 	00.29% 	       8509345 	   107358.17   { 42s }
+
+
+---
+
+24,551,806 games     6.983 secs  3,515,939 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.582%  	34.40% 	01.18% 	       8446829 	   289345.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.647%  	38.48% 	01.16% 	       9448428 	   285944.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.771%  	24.48% 	00.30% 	       6009219 	    72677.00   { 43s }
+
+
+---
+
+24,583,165 games     7.015 secs  3,504,371 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.860%  	36.57% 	01.29% 	       8989898 	   317531.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.934%  	40.65% 	01.28% 	       9993167 	   315774.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	20.206%  	19.80% 	00.41% 	       4867505 	    99871.83   { 52o }
+
+
+---
+
+24,415,720 games     7.016 secs  3,480,005 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.943%  	35.66% 	01.28% 	       8706493 	   313649.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.211%  	39.93% 	01.28% 	       9750266 	   312005.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.846%  	21.44% 	00.41% 	       5233946 	   100046.33   { 53o }
+
+
+---
+
+23,838,782 games     7.016 secs  3,397,773 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.173%  	34.87% 	01.30% 	       8312715 	   310524.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.466%  	39.15% 	01.32% 	       9332464 	   314405.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.362%  	22.86% 	00.50% 	       5449634 	   119692.50   { 54o }
+
+
+---
+
+24,230,725 games     7.013 secs  3,455,115 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.172%  	34.94% 	01.23% 	       8467100 	   297719.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.996%  	38.78% 	01.22% 	       9395692 	   295960.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.832%  	23.44% 	00.40% 	       5678998 	    95907.00   { 52s }
+
+
+---
+
+23,774,434 games     7.012 secs  3,390,535 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.271%  	34.05% 	01.22% 	       8095422 	   290202.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.335%  	38.12% 	01.22% 	       9063017 	   288878.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.394%  	25.00% 	00.40% 	       5942582 	    94970.67   { 53s }
+
+
+---
+
+24,013,564 games     6.991 secs  3,434,925 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.647%  	33.38% 	01.26% 	       8016587 	   303451.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.620%  	37.33% 	01.29% 	       8963711 	   310516.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.734%  	26.17% 	00.56% 	       6285224 	   134749.00   { 54s }
+
+
+---
+
+24,064,827 games     6.987 secs  3,444,228 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.372%  	37.10% 	01.27% 	       8928461 	   305831.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.336%  	41.07% 	01.26% 	       9884132 	   304211.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.292%  	18.91% 	00.39% 	       4549698 	    93169.50   { 62o }
+
+
+---
+
+24,575,286 games     7.015 secs  3,503,248 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.487%  	36.23% 	01.26% 	       8903190 	   309524.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.598%  	40.34% 	01.25% 	       9914761 	   308363.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	20.915%  	20.53% 	00.39% 	       5045389 	    94684.17   { 63o }
+
+
+---
+
+24,443,904 games     7.014 secs  3,485,016 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.697%  	35.44% 	01.26% 	       8662257 	   308133.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.769%  	39.50% 	01.27% 	       9655752 	   310026.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.534%  	22.10% 	00.43% 	       5402855 	   105485.67   { 64o }
+
+
+---
+
+23,842,835 games     7.015 secs  3,398,836 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.051%  	34.74% 	01.31% 	       8283050 	   312650.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.031%  	38.70% 	01.34% 	       9226235 	   318450.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.918%  	23.35% 	00.57% 	       5566210 	   136772.00   { 65o }
+
+
+---
+
+23,567,349 games     7.014 secs  3,360,044 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.623%  	35.42% 	01.21% 	       8346831 	   284298.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.369%  	39.17% 	01.20% 	       9231214 	   282908.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.008%  	22.63% 	00.37% 	       5334348 	    88276.83   { 62s }
+
+
+---
+
+23,832,695 games     7.015 secs  3,397,390 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.814%  	34.62% 	01.20% 	       8250061 	   285419.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.669%  	38.48% 	01.19% 	       9170560 	   283883.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.518%  	24.14% 	00.38% 	       5753922 	    89510.17   { 63s }
+
+
+---
+
+23,856,409 games     6.992 secs  3,411,957 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.050%  	33.85% 	01.20% 	       8075960 	   285767.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.901%  	37.70% 	01.20% 	       8993373 	   287248.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.049%  	25.63% 	00.42% 	       6114016 	   100675.50   { 64s }
+
+
+---
+
+23,883,968 games     6.987 secs  3,418,343 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.491%  	33.22% 	01.27% 	       7933798 	   304173.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.181%  	36.87% 	01.31% 	       8805672 	   313635.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.328%  	26.70% 	00.63% 	       6376678 	   150557.67   { 65s }
+
+
+---
+
+24,394,850 games     7.016 secs  3,477,031 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.930%  	37.60% 	01.33% 	       9172455 	   324580.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.863%  	41.54% 	01.33% 	      10132624 	   323935.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	18.207%  	17.74% 	00.47% 	       4327347 	   114506.33   { 72o }
+
+
+---
+
+24,443,010 games     7.018 secs  3,482,902 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.074%  	36.76% 	01.32% 	       8984588 	   321982.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.144%  	40.83% 	01.31% 	       9980243 	   321242.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.782%  	19.32% 	00.47% 	       4721848 	   113746.67   { 73o }
+
+
+---
+
+24,243,874 games     7.015 secs  3,456,004 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.293%  	35.98% 	01.32% 	       8722324 	   319071.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.302%  	39.98% 	01.33% 	       9692045 	   321544.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.405%  	20.90% 	00.51% 	       5067031 	   122497.00   { 74o }
+
+
+---
+
+23,899,809 games     7.013 secs  3,407,929 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.546%  	35.19% 	01.36% 	       8409257 	   325277.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.483%  	39.10% 	01.39% 	       9344062 	   331599.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.971%  	22.33% 	00.64% 	       5337919 	   152319.83   { 75o }
+
+
+---
+
+23,627,315 games     6.993 secs  3,378,709 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.883%  	34.57% 	01.31% 	       8168921 	   309371.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.717%  	38.38% 	01.34% 	       9067291 	   316998.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.400%  	23.78% 	00.63% 	       5617618 	   147728.67   { 76o }
+
+
+---
+
+23,678,246 games     6.991 secs  3,386,961 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.142%  	35.88% 	01.26% 	       8496324 	   298491.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.824%  	39.57% 	01.26% 	       9368783 	   297907.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.034%  	21.58% 	00.45% 	       5110698 	   106679.67   { 72s }
+
+
+---
+
+23,895,510 games     6.986 secs  3,420,485 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.320%  	35.06% 	01.26% 	       8378822 	   300115.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.141%  	38.89% 	01.25% 	       9292749 	   299366.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.540%  	23.09% 	00.45% 	       5517108 	   108004.00   { 73s }
+
+
+---
+
+23,847,834 games     7.016 secs  3,399,064 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.567%  	34.32% 	01.25% 	       8183550 	   298439.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.363%  	38.10% 	01.26% 	       9086840 	   300638.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.070%  	24.58% 	00.49% 	       5861929 	   117058.83   { 74s }
+
+
+---
+
+23,732,232 games     7.015 secs  3,383,069 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.937%  	33.61% 	01.32% 	       7977326 	   314065.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.571%  	37.21% 	01.36% 	       8830564 	   323403.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.493%  	25.80% 	00.69% 	       6123698 	   163890.17   { 75s }
+
+
+---
+
+23,604,233 games     7.013 secs  3,365,782 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.327%  	33.05% 	01.28% 	       7801374 	   301500.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.849%  	36.53% 	01.32% 	       8623035 	   311082.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.824%  	27.14% 	00.68% 	       6407275 	   160590.67   { 76s }
+
+
+---
+
+24,125,815 games     6.994 secs  3,449,501 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.689%  	37.38% 	01.31% 	       9018604 	   315477.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.470%  	41.16% 	01.31% 	       9931026 	   315460.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	18.842%  	18.39% 	00.46% 	       4435747 	   110133.17   { 82o }
+
+
+---
+
+24,100,382 games     6.987 secs  3,449,317 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.518%  	37.21% 	01.31% 	       8968141 	   315010.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.484%  	41.17% 	01.31% 	       9922784 	   316378.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	18.998%  	18.54% 	00.46% 	       4468297 	   110410.00   { 83o }
+
+
+---
+
+23,752,038 games     6.984 secs  3,400,921 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.751%  	36.45% 	01.31% 	       8656577 	   310106.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.646%  	40.33% 	01.32% 	       9578207 	   313898.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	20.603%  	20.11% 	00.49% 	       4776598 	   117221.17   { 84o }
+
+
+---
+
+24,212,806 games     7.016 secs  3,451,084 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.936%  	35.61% 	01.33% 	       8621377 	   322106.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.826%  	39.47% 	01.35% 	       9557886 	   327477.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.238%  	21.67% 	00.57% 	       5247052 	   137553.00   { 85o }
+
+
+---
+
+24,178,479 games     7.014 secs  3,447,174 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.247%  	34.95% 	01.30% 	       8449425 	   314688.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.966%  	38.63% 	01.34% 	       9339829 	   323505.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.787%  	23.18% 	00.61% 	       5603762 	   147867.83   { 86o }
+
+
+---
+
+23,908,111 games     7.013 secs  3,409,113 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.871%  	34.54% 	01.34% 	       8256843 	   319317.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.299%  	37.92% 	01.38% 	       9066668 	   329204.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.830%  	24.16% 	00.67% 	       5776721 	   160001.17   { 87o }
+
+
+---
+
+24,072,813 games     7.013 secs  3,432,598 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.884%  	35.64% 	01.24% 	       8580717 	   298408.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.454%  	39.22% 	01.24% 	       9440534 	   298107.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.662%  	22.22% 	00.44% 	       5349944 	   105746.17   { 82s }
+
+
+---
+
+23,703,390 games     7.012 secs  3,380,403 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.718%  	35.48% 	01.24% 	       8408953 	   294705.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.453%  	39.20% 	01.25% 	       9292675 	   296234.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.829%  	22.39% 	00.44% 	       5306527 	   104904.33   { 83s }
+
+
+---
+
+23,926,328 games     6.991 secs  3,422,447 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.980%  	34.73% 	01.25% 	       8310683 	   298071.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.665%  	38.40% 	01.26% 	       9188841 	   301725.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.356%  	23.88% 	00.48% 	       5712958 	   114674.50   { 84s }
+
+
+---
+
+23,294,913 games     6.985 secs  3,334,991 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.249%  	33.98% 	01.27% 	       7916053 	   295210.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.878%  	37.59% 	01.29% 	       8756283 	   300496.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.874%  	25.32% 	00.55% 	       5898847 	   128685.17   { 85s }
+
+
+---
+
+23,270,221 games     7.023 secs  3,313,430 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.655%  	33.39% 	01.27% 	       7769763 	   294533.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.053%  	36.74% 	01.32% 	       8549080 	   306113.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.293%  	26.63% 	00.67% 	       6196203 	   155110.67   { 86s }
+
+
+---
+
+23,638,726 games     7.015 secs  3,369,739 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.243%  	32.95% 	01.30% 	       7788125 	   306533.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.439%  	36.09% 	01.35% 	       8530616 	   319629.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.319%  	27.59% 	00.73% 	       6522765 	   171632.83   { 87s }
+
+
+---
+
+24,338,159 games     7.017 secs  3,468,456 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.821%  	37.53% 	01.29% 	       9133918 	   314497.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.373%  	41.07% 	01.30% 	       9996831 	   316276.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	18.806%  	18.35% 	00.46% 	       4465098 	   112126.50   { 92o }
+
+
+---
+
+24,173,314 games     7.013 secs  3,446,929 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.492%  	37.20% 	01.29% 	       8991911 	   312930.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.242%  	40.94% 	01.30% 	       9896383 	   315252.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.266%  	18.80% 	00.47% 	       4544630 	   112833.17   { 93o }
+
+
+---
+
+24,377,742 games     7.012 secs  3,476,574 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.376%  	37.08% 	01.30% 	       9038632 	   316809.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.107%  	40.79% 	01.32% 	       9943125 	   322007.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.516%  	19.02% 	00.50% 	       4635785 	   121992.00   { 94o }
+
+
+---
+
+24,001,542 games     6.992 secs  3,432,714 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.594%  	36.28% 	01.32% 	       8707267 	   315935.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.255%  	39.91% 	01.34% 	       9579585 	   322493.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.152%  	20.59% 	00.56% 	       4941595 	   135296.50   { 95o }
+
+
+---
+
+23,409,938 games     6.988 secs  3,350,019 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.856%  	35.59% 	01.26% 	       8332083 	   295983.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.369%  	39.08% 	01.29% 	       9148311 	   302257.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.775%  	22.24% 	00.54% 	       5205270 	   126559.00   { 96o }
+
+
+---
+
+23,913,151 games     7.015 secs  3,408,859 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.379%  	35.05% 	01.33% 	       8382324 	   317080.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.646%  	38.27% 	01.37% 	       9152304 	   328613.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.975%  	23.31% 	00.67% 	       5573310 	   160165.67   { 97o }
+
+
+---
+
+23,782,570 games     7.015 secs  3,390,245 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.861%  	34.56% 	01.30% 	       8219914 	   308845.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.918%  	37.56% 	01.36% 	       8932767 	   323175.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.221%  	24.55% 	00.67% 	       5839775 	   158728.17   { 98o }
+
+
+---
+
+23,962,342 games     7.014 secs  3,416,358 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.951%  	35.73% 	01.23% 	       8560727 	   293760.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.346%  	39.11% 	01.23% 	       9372485 	   295596.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.702%  	22.26% 	00.44% 	       5334493 	   105681.33   { 92s }
+
+
+---
+
+23,823,925 games     7.012 secs  3,397,593 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.657%  	35.43% 	01.23% 	       8439683 	   293607.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.204%  	38.96% 	01.24% 	       9282658 	   295682.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.139%  	22.69% 	00.45% 	       5405539 	   107404.33   { 93s }
+
+
+---
+
+23,691,133 games     6.993 secs  3,387,835 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.541%  	35.30% 	01.24% 	       8363191 	   293934.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.107%  	38.84% 	01.26% 	       9202637 	   299456.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.352%  	22.87% 	00.48% 	       5417720 	   114854.33   { 94s }
+
+
+---
+
+23,586,825 games     6.988 secs  3,375,332 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.803%  	34.55% 	01.26% 	       8148603 	   296382.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.299%  	38.02% 	01.28% 	       8967697 	   302031.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.897%  	24.35% 	00.54% 	       5744252 	   128486.00   { 95s }
+
+
+---
+
+23,161,830 games     6.984 secs  3,316,413 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.133%  	33.93% 	01.21% 	       7858333 	   279185.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.453%  	37.22% 	01.23% 	       8621894 	   284751.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.414%  	25.89% 	00.53% 	       5996514 	   121796.83   { 96s }
+
+
+---
+
+23,344,717 games     7.016 secs  3,327,354 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.708%  	33.42% 	01.29% 	       7801171 	   301470.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.793%  	36.44% 	01.35% 	       8507182 	   315646.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.499%  	26.77% 	00.73% 	       6250535 	   169316.67   { 97s }
+
+
+---
+
+23,312,474 games     7.015 secs  3,323,232 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.202%  	32.93% 	01.27% 	       7677851 	   295623.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.072%  	35.73% 	01.34% 	       8329958 	   312699.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.726%  	28.00% 	00.73% 	       6526801 	   170212.50   { 98s }
+
+
+---
+
+23,657,412 games     7.013 secs  3,373,365 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.882%  	37.57% 	01.31% 	       8888842 	   309847.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.196%  	40.85% 	01.34% 	       9664811 	   317941.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	18.922%  	18.33% 	00.60% 	       4335229 	   141367.00   { T2o }
+
+
+---
+
+23,646,216 games     7.020 secs  3,368,406 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.572%  	37.27% 	01.31% 	       8812053 	   309001.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	42.026%  	40.68% 	01.35% 	       9619387 	   318459.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.402%  	18.80% 	00.60% 	       4445187 	   142768.17   { T3o }
+
+
+---
+
+23,754,844 games     7.014 secs  3,386,775 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.337%  	37.02% 	01.32% 	       8793667 	   313374.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.766%  	40.40% 	01.37% 	       9596888 	   324891.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.897%  	19.25% 	00.65% 	       4573133 	   153550.00   { T4o }
+
+
+---
+
+23,602,390 games     6.990 secs  3,376,593 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.214%  	36.87% 	01.35% 	       8701649 	   317918.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.605%  	40.21% 	01.40% 	       9490291 	   329771.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	20.181%  	19.47% 	00.71% 	       4596421 	   166985.83   { T5o }
+
+
+---
+
+23,534,324 games     6.987 secs  3,368,301 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.475%  	36.19% 	01.29% 	       8516128 	   303492.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.733%  	39.39% 	01.34% 	       9270446 	   315989.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.792%  	21.12% 	00.68% 	       4969448 	   159434.33   { T6o }
+
+
+---
+
+22,601,468 games     7.018 secs  3,220,499 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.861%  	35.51% 	01.35% 	       8026404 	   304968.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.939%  	38.52% 	01.42% 	       8706257 	   320831.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.200%  	22.40% 	00.80% 	       5063131 	   180539.83   { T7o }
+
+
+---
+
+23,768,001 games     7.016 secs  3,387,685 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.264%  	34.94% 	01.32% 	       8305311 	   314059.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.068%  	37.66% 	01.41% 	       8951592 	   334401.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.668%  	23.87% 	00.80% 	       5673670 	   189609.83   { T8o }
+
+
+---
+
+22,246,404 games     7.014 secs  3,171,714 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.787%  	34.50% 	01.29% 	       7674118 	   287422.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.316%  	36.93% 	01.39% 	       8215634 	   308543.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.896%  	25.10% 	00.80% 	       5583223 	   177998.83   { T9o }
+
+
+---
+
+23,095,605 games     7.013 secs  3,293,256 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.042%  	35.80% 	01.24% 	       8267812 	   287375.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.124%  	38.85% 	01.28% 	       8971945 	   295232.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.834%  	22.26% 	00.57% 	       5141565 	   132284.17   { T2s }
+
+
+---
+
+23,420,534 games     7.014 secs  3,339,112 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.719%  	35.48% 	01.24% 	       8308662 	   291333.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.983%  	38.70% 	01.28% 	       9064488 	   300102.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.298%  	22.72% 	00.58% 	       5320362 	   136261.83   { T3s }
+
+
+---
+
+23,540,695 games     6.992 secs  3,366,804 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.496%  	35.24% 	01.25% 	       8296318 	   295187.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.738%  	38.44% 	01.30% 	       9048806 	   306127.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.766%  	23.15% 	00.62% 	       5448687 	   146224.67   { T4s }
+
+
+---
+
+23,357,048 games     6.985 secs  3,343,886 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.365%  	35.08% 	01.28% 	       8194308 	   299616.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.590%  	38.26% 	01.33% 	       8936109 	   311252.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.045%  	23.37% 	00.68% 	       5457780 	   158610.67   { T5s }
+
+
+---
+
+23,218,483 games     7.016 secs  3,309,361 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.673%  	34.45% 	01.23% 	       7997635 	   285342.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.781%  	37.50% 	01.28% 	       8707816 	   296716.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.546%  	24.89% 	00.65% 	       5779942 	   151606.67   { T6s }
+
+
+---
+
+23,206,578 games     7.016 secs  3,307,665 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.151%  	33.84% 	01.31% 	       7852969 	   304464.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.033%  	36.64% 	01.39% 	       8502748 	   323572.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.817%  	25.97% 	00.85% 	       6027301 	   196161.50   { T7s }
+
+
+---
+
+22,857,903 games     7.015 secs  3,258,432 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.592%  	33.30% 	01.29% 	       7611463 	   295625.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.184%  	35.79% 	01.39% 	       8181711 	   318044.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.224%  	27.37% 	00.86% 	       6256117 	   195520.50   { T8s }
+
+
+---
+
+23,008,063 games     7.015 secs  3,279,837 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.092%  	32.83% 	01.26% 	       7553878 	   290262.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.497%  	35.13% 	01.37% 	       8082340 	   315057.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	29.411%  	28.55% 	00.86% 	       6569427 	   197695.17   { T9s }
+
+
+---
+
+23,542,086 games     7.014 secs  3,356,442 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.697%  	37.42% 	01.27% 	       8810503 	   299721.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.718%  	40.41% 	01.31% 	       9513534 	   308085.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	19.585%  	19.00% 	00.59% 	       4472314 	   138524.33   { J2o }
+
+
+---
+
+24,050,388 games     7.013 secs  3,429,400 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.392%  	37.12% 	01.27% 	       8927121 	   306363.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.527%  	40.22% 	01.31% 	       9672359 	   315432.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	20.081%  	19.49% 	00.60% 	       4686414 	   143348.00   { J3o }
+
+
+---
+
+23,714,244 games     6.990 secs  3,392,595 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.116%  	36.84% 	01.28% 	       8735268 	   303800.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.283%  	39.96% 	01.33% 	       9475423 	   314753.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	20.601%  	19.97% 	00.63% 	       4735715 	   149911.50   { J4o }
+
+
+---
+
+23,606,233 games     6.983 secs  3,380,528 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.883%  	36.57% 	01.31% 	       8633256 	   309698.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.015%  	39.66% 	01.36% 	       9361820 	   320517.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.102%  	20.40% 	00.70% 	       4815870 	   165701.67   { J5o }
+
+
+---
+
+23,581,916 games     7.014 secs  3,362,120 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.777%  	36.51% 	01.27% 	       8609431 	   299325.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.776%  	39.46% 	01.32% 	       9305454 	   310502.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.447%  	20.77% 	00.68% 	       4898542 	   159287.50   { J6o }
+
+
+---
+
+23,683,588 games     7.015 secs  3,376,135 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.215%  	35.89% 	01.33% 	       8500016 	   314016.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.025%  	38.68% 	01.34% 	       9161381 	   318298.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.760%  	22.02% 	00.74% 	       5214739 	   175802.67   { J7o }
+
+
+---
+
+23,562,501 games     7.018 secs  3,357,438 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.566%  	35.27% 	01.30% 	       8309639 	   306388.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.140%  	37.75% 	01.39% 	       8895540 	   327152.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.294%  	23.50% 	00.80% 	       5536470 	   187970.50   { J8o }
+
+
+---
+
+23,434,133 games     7.013 secs  3,341,527 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.109%  	34.84% 	01.27% 	       8163533 	   298446.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.377%  	37.00% 	01.38% 	       8671211 	   322236.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.514%  	24.71% 	00.81% 	       5789987 	   189277.83   { J9o }
+
+
+---
+
+22,990,480 games     7.014 secs  3,277,798 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.271%  	33.81% 	01.46% 	       7773960 	   335117.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.258%  	35.55% 	01.71% 	       8173436 	   392681.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.471%  	26.02% 	01.45% 	       5981653 	   334250.83   { JTo }
+
+
+---
+
+23,789,954 games     6.993 secs  3,401,966 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.815%  	35.60% 	01.21% 	       8470117 	   288316.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.662%  	38.42% 	01.24% 	       9139637 	   296103.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.523%  	22.96% 	00.57% 	       5461924 	   134478.17   { J2s }
+
+
+---
+
+23,246,445 games     6.987 secs  3,327,099 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.534%  	35.32% 	01.21% 	       8210791 	   282337.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.477%  	38.23% 	01.25% 	       8886531 	   290714.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.989%  	23.42% 	00.57% 	       5443267 	   133478.67   { J3s }
+
+
+---
+
+23,368,182 games     7.018 secs  3,329,749 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.283%  	35.06% 	01.22% 	       8192788 	   285967.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.246%  	37.98% 	01.27% 	       8874887 	   296430.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.471%  	23.86% 	00.61% 	       5575541 	   143163.50   { J4s }
+
+
+---
+
+22,397,782 games     7.018 secs  3,191,476 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.062%  	34.81% 	01.25% 	       7797394 	   279924.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.985%  	37.69% 	01.30% 	       8441775 	   290178.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.953%  	24.28% 	00.68% 	       5437696 	   151454.83   { J5s }
+
+
+---
+
+23,151,124 games     7.015 secs  3,300,231 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.929%  	34.71% 	01.21% 	       8036799 	   281242.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.785%  	37.53% 	01.26% 	       8687840 	   291436.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.287%  	24.63% 	00.65% 	       5703223 	   151091.83   { J6s }
+
+
+---
+
+22,728,519 games     7.012 secs  3,241,374 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.349%  	34.06% 	01.29% 	       7740737 	   293614.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.129%  	36.85% 	01.28% 	       8375802 	   290618.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.522%  	25.78% 	00.75% 	       5858520 	   169840.50   { J7s }
+
+
+---
+
+22,856,106 games     7.012 secs  3,259,570 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.855%  	33.58% 	01.27% 	       7676182 	   290548.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.208%  	35.83% 	01.37% 	       8190493 	   313906.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.937%  	27.08% 	00.85% 	       6190318 	   195216.00   { J8s }
+
+
+---
+
+22,478,307 games     6.989 secs  3,216,240 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.408%  	33.16% 	01.24% 	       7454738 	   279795.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.519%  	35.16% 	01.36% 	       7902692 	   306346.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	29.073%  	28.21% 	00.87% 	       6340369 	   195038.67   { J9s }
+
+
+---
+
+22,836,442 games     6.990 secs  3,267,016 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.565%  	32.17% 	01.39% 	       7347020 	   318158.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	35.520%  	33.89% 	01.64% 	       7738378 	   373417.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	30.915%  	29.52% 	01.40% 	       6740801 	   319280.00   { JTs }
+
+
+---
+
+23,905,061 games     7.015 secs  3,407,706 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	38.002%  	36.78% 	01.23% 	       8791209 	   293274.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	41.002%  	39.78% 	01.22% 	       9510291 	   291560.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	20.996%  	20.48% 	00.52% 	       4895308 	   123983.50   { Q2o }
+
+
+---
+
+24,148,147 games     7.015 secs  3,442,358 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.673%  	36.44% 	01.23% 	       8800502 	   297089.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.843%  	39.62% 	01.23% 	       9566463 	   296617.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.484%  	20.96% 	00.53% 	       5060515 	   127618.50   { Q3o }
+
+
+---
+
+23,946,245 games     7.016 secs  3,413,090 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.428%  	36.20% 	01.23% 	       8667677 	   295041.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.545%  	39.31% 	01.24% 	       9412930 	   296370.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.027%  	21.47% 	00.56% 	       5141076 	   133789.17   { Q4o }
+
+
+---
+
+23,732,137 games     7.015 secs  3,383,055 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.154%  	35.89% 	01.26% 	       8517434 	   300103.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.277%  	39.01% 	01.27% 	       9258059 	   300834.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.569%  	21.95% 	00.62% 	       5208830 	   147451.67   { Q5o }
+
+
+---
+
+23,758,031 games     7.012 secs  3,388,196 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.941%  	35.72% 	01.22% 	       8486109 	   290460.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.965%  	38.74% 	01.22% 	       9204112 	   291004.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.094%  	22.49% 	00.61% 	       5342632 	   144372.50   { Q6o }
+
+
+---
+
+23,107,919 games     7.012 secs  3,295,481 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.929%  	35.67% 	01.26% 	       8242487 	   291193.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.852%  	38.59% 	01.26% 	       8916955 	   292201.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.219%  	22.58% 	00.64% 	       5218155 	   147578.67   { Q7o }
+
+
+---
+
+23,789,807 games     6.990 secs  3,403,405 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.349%  	35.08% 	01.27% 	       8344468 	   303013.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.918%  	37.61% 	01.31% 	       8946906 	   311817.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.733%  	24.00% 	00.74% 	       5709064 	   175162.83   { Q8o }
+
+
+---
+
+23,507,691 games     6.986 secs  3,364,971 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.892%  	34.64% 	01.25% 	       8142768 	   294675.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.155%  	36.85% 	01.30% 	       8662956 	   306623.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.953%  	25.20% 	00.76% 	       5922972 	   178323.33   { Q9o }
+
+
+---
+
+23,252,220 games     7.017 secs  3,313,698 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.867%  	33.42% 	01.45% 	       7770637 	   336805.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.063%  	35.77% 	01.30% 	       8316399 	   301915.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.070%  	27.00% 	01.07% 	       6278175 	   248919.67   { QTo }
+
+
+---
+
+23,249,250 games     7.018 secs  3,312,802 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.391%  	32.97% 	01.42% 	       7664572 	   331152.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.191%  	34.54% 	01.65% 	       8030717 	   383608.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	29.418%  	27.98% 	01.44% 	       6505814 	   334031.17   { QJo }
+
+
+---
+
+23,414,116 games     7.015 secs  3,337,721 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.140%  	34.97% 	01.17% 	       8188269 	   273847.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.935%  	37.77% 	01.16% 	       8844098 	   272400.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.925%  	24.42% 	00.50% 	       5718724 	   117416.67   { Q2s }
+
+
+---
+
+23,622,673 games     7.011 secs  3,369,372 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.840%  	34.67% 	01.17% 	       8189317 	   277213.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.764%  	37.59% 	01.17% 	       8880927 	   276321.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.396%  	24.89% 	00.51% 	       5879426 	   120068.33   { Q3s }
+
+
+---
+
+23,447,516 games     7.012 secs  3,343,912 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.580%  	34.40% 	01.18% 	       8066733 	   276057.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.520%  	37.34% 	01.18% 	       8754898 	   277390.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.899%  	25.36% 	00.54% 	       5946065 	   126930.17   { Q4s }
+
+
+---
+
+23,076,110 games     6.989 secs  3,301,775 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.348%  	34.14% 	01.21% 	       7878764 	   278312.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.245%  	37.04% 	01.21% 	       8546982 	   278720.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.407%  	25.81% 	00.60% 	       5955578 	   138409.67   { Q5s }
+
+
+---
+
+23,212,313 games     6.987 secs  3,322,214 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.131%  	33.96% 	01.17% 	       7883489 	   271368.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.967%  	36.80% 	01.17% 	       8541593 	   271674.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.902%  	26.32% 	00.59% 	       6108546 	   136296.17   { Q6s }
+
+
+---
+
+23,070,830 games     7.015 secs  3,288,785 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.116%  	33.91% 	01.20% 	       7824296 	   277302.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.857%  	36.65% 	01.21% 	       8456007 	   278078.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.028%  	26.41% 	00.62% 	       6093308 	   142475.17   { Q7s }
+
+
+---
+
+23,169,054 games     7.017 secs  3,301,846 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.604%  	33.36% 	01.24% 	       7729554 	   287991.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.995%  	35.70% 	01.29% 	       8271800 	   299779.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.401%  	27.61% 	00.79% 	       6397184 	   183370.00   { Q8s }
+
+
+---
+
+22,857,324 games     7.016 secs  3,257,885 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.175%  	32.95% 	01.23% 	       7531165 	   280352.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.276%  	34.99% 	01.29% 	       7996706 	   295206.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	29.549%  	28.73% 	00.82% 	       6567606 	   186845.50   { Q9s }
+
+
+---
+
+22,658,077 games     7.014 secs  3,230,407 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.265%  	31.88% 	01.38% 	       7224335 	   312958.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	35.199%  	33.90% 	01.30% 	       7681421 	   294111.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	31.537%  	30.45% 	01.09% 	       6898752 	   247127.17   { QTs }
+
+
+---
+
+22,363,445 games     6.993 secs  3,197,975 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.716%  	31.36% 	01.36% 	       7012659 	   303858.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	34.444%  	32.87% 	01.58% 	       7350819 	   352292.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	32.840%  	31.46% 	01.38% 	       7035309 	   309184.83   { QJs }
+
+
+---
+
+23,546,950 games     7.001 secs  3,363,369 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.341%  	36.00% 	01.35% 	       8475841 	   316885.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.752%  	39.55% 	01.21% 	       9312206 	   283877.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	21.908%  	21.18% 	00.73% 	       4986567 	   172210.33   { K2o }
+
+
+---
+
+22,389,577 games     7.000 secs  3,198,511 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	37.028%  	35.69% 	01.34% 	       7990216 	   300325.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.564%  	39.36% 	01.20% 	       8812622 	   269684.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.408%  	21.68% 	00.73% 	       4853451 	   163909.33   { K3o }
+
+
+---
+
+23,672,152 games     6.987 secs  3,388,028 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.773%  	35.43% 	01.35% 	       8385897 	   319170.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.269%  	39.05% 	01.22% 	       9244415 	   288374.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	22.958%  	22.19% 	00.76% 	       5253899 	   181034.00   { K4o }
+
+
+---
+
+23,780,636 games     7.016 secs  3,389,486 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.482%  	35.08% 	01.40% 	       8343256 	   332525.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.937%  	38.70% 	01.24% 	       9202893 	   294554.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	23.581%  	22.74% 	00.84% 	       5408017 	   200021.67   { K5o }
+
+
+---
+
+23,376,777 games     7.018 secs  3,330,974 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.233%  	34.88% 	01.36% 	       8152887 	   317314.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.596%  	38.40% 	01.20% 	       8976543 	   280065.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.171%  	23.34% 	00.83% 	       5457210 	   193393.50   { K6o }
+
+
+---
+
+22,689,305 games     7.019 secs  3,232,555 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	36.046%  	34.65% 	01.39% 	       7862988 	   315687.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.340%  	38.10% 	01.24% 	       8645296 	   280986.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.614%  	23.75% 	00.86% 	       5388806 	   196207.00   { K7o }
+
+
+---
+
+24,013,642 games     6.994 secs  3,433,463 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.914%  	34.54% 	01.37% 	       8295473 	   328931.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.082%  	37.85% 	01.24% 	       9088547 	   296757.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.004%  	24.16% 	00.85% 	       5801158 	   203401.00   { K8o }
+
+
+---
+
+23,276,293 games     6.988 secs  3,330,894 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.305%  	33.76% 	01.54% 	       7859092 	   358760.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.315%  	37.01% 	01.31% 	       8614683 	   303883.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.380%  	25.24% 	01.14% 	       5874780 	   265751.50   { K9o }
+
+
+---
+
+22,924,685 games     6.989 secs  3,280,109 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.074%  	32.56% 	01.52% 	       7463511 	   348056.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.833%  	35.16% 	01.67% 	       8060650 	   383404.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	29.093%  	27.47% 	01.62% 	       6298564 	   371147.50   { KTo }
+
+
+---
+
+22,291,060 games     7.013 secs  3,178,534 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.472%  	32.00% 	01.47% 	       7133872 	   327518.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	35.562%  	33.90% 	01.66% 	       7556660 	   370650.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	30.966%  	29.35% 	01.62% 	       6542953 	   360062.17   { KJo }
+
+
+---
+
+23,209,175 games     7.016 secs  3,308,035 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.399%  	30.97% 	01.43% 	       7187997 	   331584.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	34.404%  	32.80% 	01.60% 	       7612980 	   372095.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	33.197%  	31.65% 	01.54% 	       7346678 	   358479.17   { KQo }
+
+
+---
+
+23,160,546 games     7.014 secs  3,302,045 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.502%  	34.22% 	01.28% 	       7926187 	   296308.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.595%  	37.45% 	01.15% 	       8673853 	   265261.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.903%  	25.20% 	00.70% 	       5836671 	   162799.50   { K2s }
+
+
+---
+
+22,972,496 games     7.014 secs  3,275,234 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.201%  	33.92% 	01.28% 	       7791901 	   294818.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.423%  	37.27% 	01.15% 	       8561859 	   265056.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.376%  	25.67% 	00.71% 	       5896328 	   163024.00   { K3s }
+
+
+---
+
+22,674,376 games     7.016 secs  3,231,809 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.958%  	33.67% 	01.29% 	       7635181 	   291585.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.147%  	36.99% 	01.16% 	       8386417 	   263532.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.894%  	26.16% 	00.74% 	       5931314 	   167091.17   { K4s }
+
+
+---
+
+23,001,106 games     6.990 secs  3,290,573 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.633%  	33.27% 	01.37% 	       7651472 	   314570.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.917%  	36.74% 	01.18% 	       8449736 	   271835.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.450%  	26.61% 	00.85% 	       6119800 	   194364.50   { K5s }
+
+
+---
+
+21,588,939 games     6.985 secs  3,090,757 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.381%  	33.05% 	01.33% 	       7135169 	   287554.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.607%  	36.46% 	01.15% 	       7871734 	   247505.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.011%  	27.18% 	00.83% 	       5867669 	   179926.00   { K6s }
+
+
+---
+
+21,162,963 games     7.016 secs  3,016,385 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.223%  	32.86% 	01.36% 	       6954893 	   287754.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.380%  	36.20% 	01.18% 	       7662010 	   248990.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.397%  	27.53% 	00.87% 	       5826755 	   183209.17   { K7s }
+
+
+---
+
+22,144,938 games     7.017 secs  3,155,898 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.083%  	32.75% 	01.33% 	       7252417 	   295251.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.135%  	35.96% 	01.17% 	       7963476 	   260164.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.783%  	27.94% 	00.85% 	       6186308 	   187744.17   { K8s }
+
+
+---
+
+22,388,925 games     7.018 secs  3,190,214 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.648%  	32.18% 	01.47% 	       7205262 	   328331.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.285%  	34.99% 	01.30% 	       7833968 	   290133.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	30.067%  	28.92% 	01.15% 	       6474708 	   257132.00   { K9s }
+
+
+---
+
+21,136,944 games     7.011 secs  3,014,825 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.392%  	30.94% 	01.45% 	       6540427 	   306385.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	34.948%  	33.35% 	01.60% 	       7049940 	   337234.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	32.660%  	31.11% 	01.55% 	       6575976 	   327567.83   { KTs }
+
+
+---
+
+22,083,878 games     7.014 secs  3,148,542 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	31.833%  	30.43% 	01.40% 	       6719759 	   310237.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	33.773%  	32.19% 	01.59% 	       7107987 	   350571.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	34.395%  	32.85% 	01.54% 	       7254835 	   341149.17   { KJs }
+
+
+---
+
+22,367,660 games     7.013 secs  3,189,456 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	30.826%  	29.46% 	01.37% 	       6589237 	   305890.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	32.720%  	31.19% 	01.53% 	       6976409 	   342396.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	36.455%  	34.98% 	01.48% 	       7823195 	   331193.33   { KQs }
+
+
+---
+
+21,568,734 games     6.987 secs  3,086,980 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	35.146%  	32.69% 	02.45% 	       7051399 	   529216.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.409%  	39.07% 	01.33% 	       8427990 	   287882.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	24.446%  	21.81% 	02.64% 	       4703189 	   569681.00   { A2o }
+
+
+---
+
+21,379,820 games     6.985 secs  3,060,818 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.726%  	32.27% 	02.45% 	       6899755 	   524825.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	40.169%  	38.83% 	01.34% 	       8301858 	   286448.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.105%  	22.46% 	02.65% 	       4801682 	   565862.50   { A3o }
+
+
+---
+
+22,201,422 games     7.017 secs  3,163,947 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.333%  	31.87% 	02.46% 	       7075466 	   547173.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.846%  	38.46% 	01.39% 	       8538687 	   307999.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	25.820%  	23.10% 	02.72% 	       5129340 	   603263.83   { A4o }
+
+
+---
+
+22,425,309 games     7.017 secs  3,195,854 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.877%  	31.43% 	02.45% 	       7047370 	   549666.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.448%  	38.04% 	01.40% 	       8531510 	   314944.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.676%  	23.94% 	02.73% 	       5369522 	   612833.67   { A5o }
+
+
+---
+
+22,620,017 games     7.014 secs  3,224,981 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	34.060%  	31.78% 	02.28% 	       7188309 	   516299.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.778%  	38.43% 	01.35% 	       8692784 	   305338.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	26.161%  	23.63% 	02.53% 	       5346139 	   571793.00   { A6o }
+
+
+---
+
+22,118,697 games     6.997 secs  3,161,168 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.338%  	31.11% 	02.23% 	       6880090 	   493981.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	39.262%  	37.88% 	01.38% 	       8379141 	   305356.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	27.400%  	24.87% 	02.53% 	       5501263 	   559484.50   { A7o }
+
+
+---
+
+21,913,082 games     6.988 secs  3,135,815 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.697%  	30.62% 	02.08% 	       6709001 	   456092.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.668%  	37.32% 	01.35% 	       8177010 	   296576.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.635%  	26.26% 	02.38% 	       5753752 	   521272.50   { A8o }
+
+
+---
+
+22,418,266 games     6.987 secs  3,208,568 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	31.992%  	30.04% 	01.95% 	       6735474 	   436715.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.975%  	36.24% 	01.74% 	       8123412 	   390209.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	30.033%  	27.37% 	02.67% 	       6134861 	   598226.83   { A9o }
+
+
+---
+
+21,996,764 games     7.018 secs  3,134,335 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	30.490%  	28.69% 	01.80% 	       6310682 	   396146.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	35.744%  	34.01% 	01.74% 	       7480304 	   382508.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	33.766%  	31.11% 	02.66% 	       6842910 	   584878.33   { ATo }
+
+
+---
+
+21,732,349 games     7.014 secs  3,098,424 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	29.578%  	27.92% 	01.66% 	       6068093 	   359912.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	34.060%  	32.38% 	01.68% 	       7036696 	   365551.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	36.362%  	33.84% 	02.53% 	       7353785 	   548819.67   { AJo }
+
+
+---
+
+21,322,124 games     7.014 secs  3,039,937 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	28.229%  	26.70% 	01.53% 	       5693548 	   325452.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	32.627%  	31.04% 	01.59% 	       6617819 	   339185.50   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	39.144%  	36.81% 	02.34% 	       7848195 	   498447.83   { AQo }
+
+
+---
+
+22,376,730 games     6.994 secs  3,199,418 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	26.600%  	25.19% 	01.42% 	       5635651 	   316672.17   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	31.219%  	29.71% 	01.51% 	       6648798 	   337294.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	42.180%  	39.96% 	02.23% 	       8940743 	   498242.50   { AKo }
+
+
+---
+
+22,413,559 games     6.989 secs  3,206,976 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	33.305%  	30.97% 	02.34% 	       6940693 	   524193.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	38.216%  	36.95% 	01.27% 	       8281175 	   284572.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	28.480%  	25.96% 	02.52% 	       5818161 	   565420.00   { A2s }
+
+
+---
+
+22,062,432 games     6.985 secs  3,158,544 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.960%  	30.63% 	02.33% 	       6756818 	   515130.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.994%  	36.72% 	01.28% 	       8101156 	   281476.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	29.046%  	26.52% 	02.53% 	       5850525 	   557923.83   { A3s }
+
+
+---
+
+21,951,084 games     7.014 secs  3,129,609 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.654%  	30.30% 	02.35% 	       6652045 	   516104.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.603%  	36.22% 	01.38% 	       7951510 	   302996.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	29.743%  	27.09% 	02.65% 	       5946614 	   582493.33   { A4s }
+
+
+---
+
+22,256,048 games     7.014 secs  3,173,089 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.181%  	29.85% 	02.33% 	       6644128 	   518157.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.263%  	35.86% 	01.40% 	       7981766 	   311779.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	30.556%  	27.90% 	02.66% 	       6208499 	   592237.83   { A5s }
+
+
+---
+
+20,828,102 games     7.013 secs  2,969,927 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	32.386%  	30.21% 	02.18% 	       6292240 	   453181.83   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.540%  	36.20% 	01.35% 	       7538838 	   280326.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	30.074%  	27.60% 	02.47% 	       5749406 	   514763.83   { A6s }
+
+
+---
+
+21,687,938 games     6.994 secs  3,100,934 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	31.694%  	29.57% 	02.12% 	       6413645 	   460161.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	37.083%  	35.71% 	01.38% 	       7744236 	   298566.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	31.223%  	28.76% 	02.47% 	       6236682 	   535097.83   { A7s }
+
+
+---
+
+21,622,685 games     6.992 secs  3,092,489 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	31.075%  	29.09% 	01.98% 	       6290598 	   428784.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	36.538%  	35.18% 	01.35% 	       7607845 	   292905.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	32.387%  	30.06% 	02.33% 	       6500367 	   502825.00   { A8s }
+
+
+---
+
+21,337,018 games     6.986 secs  3,054,253 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	30.344%  	28.49% 	01.86% 	       6078544 	   396011.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	35.969%  	34.32% 	01.65% 	       7323144 	   351731.83   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	33.688%  	31.15% 	02.54% 	       6647186 	   541043.17   { A9s }
+
+
+---
+
+20,931,892 games     6.985 secs  2,996,691 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	28.929%  	27.21% 	01.71% 	       5696507 	   358899.67   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	33.857%  	32.21% 	01.65% 	       6741880 	   345132.67   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	37.215%  	34.69% 	02.52% 	       7261788 	   528298.67   { ATs }
+
+
+---
+
+21,296,734 games     7.012 secs  3,037,183 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	28.066%  	26.49% 	01.58% 	       5640668 	   336494.00   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	32.278%  	30.68% 	01.59% 	       6534840 	   339608.17   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	39.656%  	37.26% 	02.40% 	       7934535 	   511212.17   { AJs }
+
+
+---
+
+21,189,013 games     7.020 secs  3,018,377 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	26.830%  	25.38% 	01.45% 	       5377025 	   308164.33   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	30.941%  	29.43% 	01.51% 	       6236637 	   319700.33   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	42.228%  	40.01% 	02.22% 	       8478151 	   469997.00   { AQs }
+
+
+---
+
+20,885,554 games     6.999 secs  2,984,076 games/sec
+
+Board: 
+Dead:  
+
+	equity 	win 	tie 	      pots won 	pots tied	
+Hand 0: 	25.354%  	24.01% 	01.35% 	       5014382 	   281068.50   { 22+, A2s+, K5s+, Q8s+, J7s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A2o+, K9o+, QTo+, JTo }
+Hand 1: 	29.582%  	28.16% 	01.43% 	       5880810 	   297739.00   { 33+, A4s+, K9s+, Q8s+, J8s+, T7s+, 97s+, 86s+, 75s+, 65s, 54s, A9o+, KTo+, QJo, JTo }
+Hand 2: 	45.064%  	42.96% 	02.11% 	       8972088 	   440040.00   { AKs }
+
+
+---
+

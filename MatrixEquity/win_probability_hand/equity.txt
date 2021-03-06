@@ -1,0 +1,15 @@
+
+R	Range: CO raises 800			CO 	22+,A2s+,A4o+,K7s+,KTo+,Q8s+,QTo+,J8s+,JTo,T7s+,97s+,86s+,76s,65s,54s
+ C	Range: BU calls 800 against CO		BU 	44+,A7s+,A9o+,KTs+,KQo,QTs+,J9s+,T9s,98s
+  C	Range: SB calls 750 against CO  BU	SB 	55+,ATs+,AJo+,KTs+,Q9s+,J9s+,T8s+,97s+,86s+,76s,65s,54s
+   C	Range: BB calls 700 against CO, BU, SB	BB 	66+,ATs+,AQo+,K9s+,KQo,Q9s+,J9s+,T8s+,98s,87s,76s,65s,54s
+  C	Range: BB calls 700 against CO, BU	BB 	44+,A9s+,ATo+,K9s+,KJo+,Q8s+,J8s+,T8s+,97s+,86s+,75s+,65s,54s
+ C	Range: SB calls 750 against CO		SB 	33+,A3s+,A7o+,K9s+,KJo+,Q9s+,J9s+,T8s+,98s,87s
+  C	Range: BB calls 700 against CO, SB	BB 	44+,A8s+,ATo+,K9s+,KJo+,Q9s+,J8s+,T8s+,97s+,86s+,75s+,65s,54s
+ C	Range: BB calls 700 against CO		BB 	22+,A2s+,A4o+,K9s+,KTo+,Q9s+,QJo,J8s+,T8s+,97s+,86s+,76s,65s
+R	Range: BU raises 800			BU 	22+,Ax,K5s+,K9o+,Q8s+,QTo+,J7s+,JTo,T7s+,97s+,86s+,75s+,65s,54s
+ C	Range: SB calls 750 against BU		SB 	33+,A2s+,A4o+,K9s+,KTo+,Q9s+,QJo,J8s+,T8s+,97s+,87s,76s,65s
+  C	Range: BB calls 700 against BU, SB	BB	33+,A4s+,A9o+,K9s+,KTo+,Q8s+,QJo,J8s+,JTo,T7s+,97s+,86s+,75s+,65s,54s
+ C	Range: BB calls 700 against BU		BB	22+,Ax,K5s+,K9o+,Q8s+,QTo+,J8s+,JTo,T7s+,97s+,86s+,75s+,65s,54s
+R	Range: SB raises 800			SB	22+,Kx+,Q2s+,Q5o+,J3s+,J7o+,T4s+,T7o+,95s+,97o+,84s+,87o,74s+,63s+,52s+,42s+
+ C	Range: BB calls 700 against SB		BB 	22+,Ax,K2s+,K3o+,Q5s+,Q8o+,J7s+,J9o+,T7s+,96s+,86s+,75s+,65s,54s
